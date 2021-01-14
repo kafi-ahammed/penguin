@@ -78,6 +78,12 @@ header img{
     width: 600px;
     height: 350px;
 }
+@media  (min-width:480px){
+    .bottom-card-right img{
+        width: 200px;
+        height: 100px;
+    }
+}
 .bottom .card{
     box-shadow: 5px 5px 30px #f0efef;
     border-radius: 15px;
