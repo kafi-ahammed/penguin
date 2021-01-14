@@ -1,0 +1,98 @@
+.top-navbar{
+    width: 100%;
+    height: 850px;
+    background-color: #FFFBF0;
+}
+header li{
+    font-family: roboto;
+    font-size: 18px;
+    padding-right: 30px;
+    color: #3B3B3B;
+}
+header img{
+    width: 300px;
+}
+.nav-icon .navbar-toggler-icon {
+	background-image: url(Image/logo2png.png);
+    background-size: 120%;
+}
+.navbar-toggler{
+    border: 0;
+}
+.carousel h1{
+    font-family: bebas neue;
+    color: #FABE4C;
+    font-size: 5em;
+}
+.carousel h1 span{
+    color: #363958;
+}
+.carousel p{
+    font-family: roboto;
+}
+.buy-btn{
+    background-color: #98B134;
+    padding: 10px 25px;
+    font-size: 15px;
+    font-family: roboto;
+    text-transform: uppercase;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+.penguin-card{
+    border: 0;
+}
+.inner-card-img{
+    margin: 15px;
+    border-radius: 15px;
+    background-color: #F1F1F1;
+}
+.inner-card-img img{
+    width: 350px;
+    height: 350px;
+}
+.card-caption{
+    font-family: bebas neue;
+    color: #363958;
+}
+.card-title{
+    color: #363958;
+    font-weight: 700;
+    font-size: 24px;
+    padding-bottom: 5px;
+}
+.card-body h1{
+    color: #FABE4C;
+    font-family: roboto;
+    font-weight: bold;
+}
+.card-buy{
+    padding-top: 5px;
+}
+.bottom-card-left img{
+    width: 70px;
+    height: 70px;
+}
+.bottom-card-right img{
+    width: 600px;
+    height: 350px;
+}
+.bottom .card{
+    box-shadow: 5px 5px 30px #f0efef;
+    border-radius: 15px;
+    border: none;
+}
+.footer{
+    margin-top: 100px;
+}
+.sign-in h1{
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: bebas neue;
+    color: #363958;
+}
+.copyright{
+    text-align: center;
+    margin: 2% 0;
+}
